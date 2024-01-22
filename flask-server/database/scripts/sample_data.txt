@@ -1,0 +1,10 @@
+{}
+{}
+{"label": "Sneaker"}
+{"label": "Coat"}
+{"label": "Shirt"}
+{"label": "T-Shirt"}
+{"label": "Ankle Boot"}
+{"label": "T-Shirt"}
+{"label": "T-Shirt"}
+{"label": "Coat"}

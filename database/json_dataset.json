@@ -1,0 +1,842 @@
+[
+    {
+        "article_id": "0145872001",
+        "Product_Name": "Sweater",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Long-sleeved sports top in fast-drying, breathable functional fabric with overlocked seams for optimum comfort. Some of the polyester content of the top is recycled."
+    },
+    {
+        "article_id": "0145872037",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Grey",
+        "Gender": "Sport",
+        "Description": "Long-sleeved sports top in fast-drying, breathable functional fabric with overlocked seams for optimum comfort. Some of the polyester content of the top is recycled."
+    },
+    {
+        "article_id": "0145872043",
+        "Product_Name": "Sweater",
+        "Colour": "White",
+        "Gender": "Sport",
+        "Description": "Long-sleeved sports top in fast-drying, breathable functional fabric with overlocked seams for optimum comfort. Some of the polyester content of the top is recycled."
+    },
+    {
+        "article_id": "0145872052",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Blue",
+        "Gender": "Sport",
+        "Description": "Long-sleeved sports top in fast-drying, breathable functional fabric with overlocked seams for optimum comfort. Some of the polyester content of the top is recycled."
+    },
+    {
+        "article_id": "0145872053",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Grey",
+        "Gender": "Sport",
+        "Description": "Long-sleeved sports top in fast-drying, breathable functional fabric with overlocked seams for optimum comfort. Some of the polyester content of the top is recycled."
+    },
+    {
+        "article_id": "0189691033",
+        "Product_Name": "Sweater",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0189691044",
+        "Product_Name": "Sweater",
+        "Colour": "Grey",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0189691051",
+        "Product_Name": "Sweater",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0189691063",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Pink",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0189691067",
+        "Product_Name": "Sweater",
+        "Colour": "Light Orange",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0189691075",
+        "Product_Name": "Sweater",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem."
+    },
+    {
+        "article_id": "0225286014",
+        "Product_Name": "Sweater",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Running jacket with front and shoulder sections in windproof functional fabric, ventilating mesh sections in the sides, a small stand-up collar and zip down the front. Thumbholes at the cuffs, reflective details, and a rounded hem. Slightly longer at the back. Brushed thermal inside. Tight fit."
+    },
+    {
+        "article_id": "0233672016",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Blue",
+        "Gender": "Menswear",
+        "Description": "Long-sleeved, V-neck T-shirt in stretch cotton-blend jersey. Slim fit."
+    },
+    {
+        "article_id": "0244267001",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267004",
+        "Product_Name": "Sweater",
+        "Colour": "White",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267017",
+        "Product_Name": "Sweater",
+        "Colour": "Light Pink",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267021",
+        "Product_Name": "Sweater",
+        "Colour": "Light Blue",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267027",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Beige",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267028",
+        "Product_Name": "Sweater",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0244267029",
+        "Product_Name": "Sweater",
+        "Colour": "Light Pink",
+        "Gender": "Ladieswear",
+        "Description": "Purl-knit jumper in a cotton blend with a slightly wider neckline and 3/4-length sleeves."
+    },
+    {
+        "article_id": "0181160009",
+        "Product_Name": "Boots",
+        "Colour": "Yellowish Brown",
+        "Gender": "Divided",
+        "Description": "Chelsea boots with elasticated gores in the sides and rubber soles."
+    },
+    {
+        "article_id": "0258650001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Ankle boots in imitation suede with elastic gores in the sides, fabric linings and insoles and rubber soles. Heel 6.5 cm."
+    },
+    {
+        "article_id": "0320880001",
+        "Product_Name": "Boots",
+        "Colour": "Yellowish Brown",
+        "Gender": "Divided",
+        "Description": "Ankle boots in suede with a loop at the top of each side, warm pile lining and insoles and rubber soles."
+    },
+    {
+        "article_id": "0331072001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Chelsea boots with elastic gores in the sides, cotton canvas linings and insoles and rubber soles. Heel 2.5 cm."
+    },
+    {
+        "article_id": "0331072005",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Chelsea boots with elastic gores in the sides, cotton canvas linings and insoles and rubber soles. Heel 2.5 cm."
+    },
+    {
+        "article_id": "0401729001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Ankle boots with lacing at the front, a loop at the back, fabric linings, imitation leather insoles and chunky rubber soles. Platform front 2 cm, heel 4.5 cm."
+    },
+    {
+        "article_id": "0401729003",
+        "Product_Name": "Boots",
+        "Colour": "Light Orange",
+        "Gender": "Divided",
+        "Description": "Ankle boots with lacing at the front, a loop at the back, fabric linings, imitation leather insoles and chunky rubber soles. Platform front 2 cm, heel 4.5 cm."
+    },
+    {
+        "article_id": "0420049002",
+        "Product_Name": "Boots",
+        "Colour": "Beige",
+        "Gender": "Ladieswear",
+        "Description": ""
+    },
+    {
+        "article_id": "0420049003",
+        "Product_Name": "Boots",
+        "Colour": "Dark Yellow",
+        "Gender": "Ladieswear",
+        "Description": ""
+    },
+    {
+        "article_id": "0453828001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Ankle boots with open sections at the sides, a loop at the back and adjustable straps with studs, concealed elastication and a metal buckle. Canvas linings and insoles and rubber soles. Heel 4 cm."
+    },
+    {
+        "article_id": "0453828003",
+        "Product_Name": "Boots",
+        "Colour": "Beige",
+        "Gender": "Divided",
+        "Description": "Ankle boots with open sections at the sides, a loop at the back and adjustable straps with studs, concealed elastication and a metal buckle. Canvas linings and insoles and rubber soles. Heel 4 cm."
+    },
+    {
+        "article_id": "0458032003",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Ladieswear",
+        "Description": "Ankle boots with a zip in one side and a loop at the back. Satin linings, imitation leather insoles and rubber soles. Heel approx. 6.5 cm."
+    },
+    {
+        "article_id": "0478943001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Chelsea boots in imitation leather with elastic gores in the side and a loop at the back. Fabric linings and insoles and rubber soles. Heel 2.5 cm."
+    },
+    {
+        "article_id": "0478943003",
+        "Product_Name": "Boots",
+        "Colour": "Dark Red",
+        "Gender": "Divided",
+        "Description": "Chelsea boots in imitation leather with elastic gores in the side and a loop at the back. Fabric linings and insoles and rubber soles. Heel 2.5 cm."
+    },
+    {
+        "article_id": "0478944001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Chelsea boots in leather with elastic gores in the side and a loop at the back. Fabric linings and insoles and rubber soles. Heel 2.5 cm."
+    },
+    {
+        "article_id": "0481147001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Imitation leather ankle boots with pointed toes and open sections at the sides. Zip at the back and straps at the front, one with a metal buckle. Canvas linings and insoles and rubber soles. Heel 5.5 cm."
+    },
+    {
+        "article_id": "0489217001",
+        "Product_Name": "Boots",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Ankle boots in imitation suede with lacing at the front, a loop at the back, pile linings and insoles and chunky rubber soles. Heel 3.5 cm."
+    },
+    {
+        "article_id": "0489217003",
+        "Product_Name": "Boots",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Ankle boots in imitation suede with lacing at the front, a loop at the back, pile linings and insoles and chunky rubber soles. Heel 3.5 cm."
+    },
+    {
+        "article_id": "0489217005",
+        "Product_Name": "Boots",
+        "Colour": "Light Beige",
+        "Gender": "Divided",
+        "Description": "Ankle boots in imitation suede with lacing at the front, a loop at the back, pile linings and insoles and chunky rubber soles. Heel 3.5 cm."
+    },
+    {
+        "article_id": "0489217006",
+        "Product_Name": "Boots",
+        "Colour": "Dark Red",
+        "Gender": "Divided",
+        "Description": "Ankle boots in imitation suede with lacing at the front, a loop at the back, pile linings and insoles and chunky rubber soles. Heel 3.5 cm."
+    },
+    {
+        "article_id": "0118458003",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Grey",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458004",
+        "Product_Name": "Trousers",
+        "Colour": "Grey",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458028",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458029",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Grey",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458034",
+        "Product_Name": "Trousers",
+        "Colour": "Pink",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458038",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0118458039",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Blue",
+        "Gender": "Menswear",
+        "Description": "Trousers in sweatshirt fabric with an elasticated drawstring waist, side pockets, a back pocket and ribbed hems. Soft brushed inside."
+    },
+    {
+        "article_id": "0150959011",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Running trousers in fast-drying, breathable functional fabric with elastication and a concealed drawstring at the waist. Mesh-lined side pockets, a concealed key pocket in the waistband, a zip at the hems, and reflective details. Regular fit."
+    },
+    {
+        "article_id": "0150959013",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Grey",
+        "Gender": "Sport",
+        "Description": "Running trousers in fast-drying, breathable functional fabric with elastication and a concealed drawstring at the waist. Mesh-lined side pockets, a concealed key pocket in the waistband, a zip at the hems, and reflective details. Regular fit."
+    },
+    {
+        "article_id": "0156610001",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Sports trousers in fast-drying fabric made from recycled polyester with an elasticated drawstring waist, side pockets and tapered legs. Regular fit."
+    },
+    {
+        "article_id": "0156610007",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Sports trousers in fast-drying fabric made from recycled polyester with an elasticated drawstring waist, side pockets and tapered legs. Regular fit."
+    },
+    {
+        "article_id": "0156610010",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Sport",
+        "Description": "Sports trousers in fast-drying fabric made from recycled polyester with an elasticated drawstring waist, side pockets and tapered legs. Regular fit."
+    },
+    {
+        "article_id": "0186372011",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Ladieswear",
+        "Description": "Harem trousers in jersey with elastication at the waist and hems."
+    },
+    {
+        "article_id": "0186372042",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Harem trousers in jersey with elastication at the waist and hems."
+    },
+    {
+        "article_id": "0186372045",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Harem trousers in jersey with elastication at the waist and hems."
+    },
+    {
+        "article_id": "0212766041",
+        "Product_Name": "Trousers",
+        "Colour": "Greenish Khaki",
+        "Gender": "Menswear",
+        "Description": "Joggers in washed cotton twill with an elasticated drawstring waist, side and back pockets and elasticated hems. Loose fit."
+    },
+    {
+        "article_id": "0212766042",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Beige",
+        "Gender": "Menswear",
+        "Description": "Joggers in washed cotton twill with an elasticated drawstring waist, side and back pockets and elasticated hems. Loose fit."
+    },
+    {
+        "article_id": "0212766043",
+        "Product_Name": "Trousers",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Joggers in washed cotton twill with an elasticated drawstring waist, side and back pockets and elasticated hems. Loose fit."
+    },
+    {
+        "article_id": "0212766045",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Grey",
+        "Gender": "Menswear",
+        "Description": "Joggers in washed cotton twill with an elasticated drawstring waist, side and back pockets and elasticated hems. Loose fit."
+    },
+    {
+        "article_id": "0212766046",
+        "Product_Name": "Trousers",
+        "Colour": "Dark Blue",
+        "Gender": "Menswear",
+        "Description": "Joggers in washed cotton twill with an elasticated drawstring waist, side and back pockets and elasticated hems. Loose fit."
+    },
+    {
+        "article_id": "0189955076",
+        "Product_Name": "T-shirt",
+        "Colour": "Light Blue",
+        "Gender": "Ladieswear",
+        "Description": "Top in soft slub jersey with a fake front pocket, short sleeves with sewn-in turn-ups, and a rounded hem."
+    },
+    {
+        "article_id": "0203027045",
+        "Product_Name": "T-shirt",
+        "Colour": "Off White",
+        "Gender": "Divided",
+        "Description": "Short-sleeved top in jersey with sewn-in turn-ups on the sleeves."
+    },
+    {
+        "article_id": "0203027047",
+        "Product_Name": "T-shirt",
+        "Colour": "White",
+        "Gender": "Divided",
+        "Description": "Short-sleeved top in jersey with sewn-in turn-ups on the sleeves."
+    },
+    {
+        "article_id": "0203027048",
+        "Product_Name": "T-shirt",
+        "Colour": "Yellow",
+        "Gender": "Divided",
+        "Description": "Short-sleeved top in jersey with sewn-in turn-ups on the sleeves."
+    },
+    {
+        "article_id": "0215248002",
+        "Product_Name": "T-shirt",
+        "Colour": "Black",
+        "Gender": "Ladieswear",
+        "Description": "Fitted top in soft stretch jersey with a V-neck and short sleeves."
+    },
+    {
+        "article_id": "0215337001",
+        "Product_Name": "T-shirt",
+        "Colour": "White",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337003",
+        "Product_Name": "T-shirt",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337038",
+        "Product_Name": "T-shirt",
+        "Colour": "Dark Purple",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337039",
+        "Product_Name": "T-shirt",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337059",
+        "Product_Name": "T-shirt",
+        "Colour": "Grey",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337066",
+        "Product_Name": "T-shirt",
+        "Colour": "Blue",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0215337067",
+        "Product_Name": "T-shirt",
+        "Colour": "Pink",
+        "Gender": "Divided",
+        "Description": "Short-sleeved jersey top with a chest pocket."
+    },
+    {
+        "article_id": "0240670058",
+        "Product_Name": "T-shirt",
+        "Colour": "Dark Blue",
+        "Gender": "Divided",
+        "Description": "Long T-shirt in jersey with sewn-in turn-ups on the sleeves."
+    },
+    {
+        "article_id": "0240670060",
+        "Product_Name": "T-shirt",
+        "Colour": "Light Orange",
+        "Gender": "Divided",
+        "Description": "Long T-shirt in jersey with sewn-in turn-ups on the sleeves."
+    },
+    {
+        "article_id": "0257667055",
+        "Product_Name": "T-shirt",
+        "Colour": "Light Orange",
+        "Gender": "Ladieswear",
+        "Description": "Short-sleeved V-neck top in softly draping airy jersey with a slight sheen."
+    },
+    {
+        "article_id": "0257667061",
+        "Product_Name": "T-shirt",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Short-sleeved V-neck top in softly draping airy jersey with a slight sheen."
+    },
+    {
+        "article_id": "0294008009",
+        "Product_Name": "T-shirt",
+        "Colour": "Black",
+        "Gender": "Ladieswear",
+        "Description": "Gently flared top in soft viscose jersey with short sleeves and a rounded hem."
+    },
+    {
+        "article_id": "0294008036",
+        "Product_Name": "T-shirt",
+        "Colour": "Orange",
+        "Gender": "Ladieswear",
+        "Description": "Gently flared top in soft viscose jersey with short sleeves and a rounded hem."
+    },
+    {
+        "article_id": "0294008040",
+        "Product_Name": "T-shirt",
+        "Colour": "White",
+        "Gender": "Ladieswear",
+        "Description": "Gently flared top in soft viscose jersey with short sleeves and a rounded hem."
+    },
+    {
+        "article_id": "0294008042",
+        "Product_Name": "T-shirt",
+        "Colour": "Yellow",
+        "Gender": "Ladieswear",
+        "Description": "Gently flared top in soft viscose jersey with short sleeves and a rounded hem."
+    },
+    {
+        "article_id": "0192460006",
+        "Product_Name": "Dress",
+        "Colour": "Dark Grey",
+        "Gender": "Divided",
+        "Description": "Short, fine-knit dress with a hood, waterfall neckline and long sleeves. Unlined."
+    },
+    {
+        "article_id": "0202017055",
+        "Product_Name": "Dress",
+        "Colour": "White",
+        "Gender": "Ladieswear",
+        "Description": "Short-sleeved dress in slub jersey with an elasticated waist and side pockets."
+    },
+    {
+        "article_id": "0212629004",
+        "Product_Name": "Dress",
+        "Colour": "Black",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629031",
+        "Product_Name": "Dress",
+        "Colour": "Dark Green",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629032",
+        "Product_Name": "Dress",
+        "Colour": "Dark Pink",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629033",
+        "Product_Name": "Dress",
+        "Colour": "White",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629035",
+        "Product_Name": "Dress",
+        "Colour": "Red",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629036",
+        "Product_Name": "Dress",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629040",
+        "Product_Name": "Dress",
+        "Colour": "Dark Red",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629043",
+        "Product_Name": "Dress",
+        "Colour": "Red",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629047",
+        "Product_Name": "Dress",
+        "Colour": "Greenish Khaki",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629048",
+        "Product_Name": "Dress",
+        "Colour": "Dark Pink",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629049",
+        "Product_Name": "Dress",
+        "Colour": "Orange",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629050",
+        "Product_Name": "Dress",
+        "Colour": "Grey",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0212629051",
+        "Product_Name": "Dress",
+        "Colour": "White",
+        "Gender": "Divided",
+        "Description": "Long, sleeveless dress in jersey with narrow shoulder straps and an elasticated seam at the waist. Unlined."
+    },
+    {
+        "article_id": "0220094001",
+        "Product_Name": "Dress",
+        "Colour": "Black",
+        "Gender": "Ladieswear",
+        "Description": "Strapless maxi dress in jersey with an elasticated seam at the waist and slits in the sides. Integral top with elastication at the top."
+    },
+    {
+        "article_id": "0220094010",
+        "Product_Name": "Dress",
+        "Colour": "Greenish Khaki",
+        "Gender": "Ladieswear",
+        "Description": "Strapless maxi dress in jersey with an elasticated seam at the waist and slits in the sides. Integral top with elastication at the top."
+    },
+    {
+        "article_id": "0220094011",
+        "Product_Name": "Dress",
+        "Colour": "Dark Blue",
+        "Gender": "Ladieswear",
+        "Description": "Strapless maxi dress in jersey with an elasticated seam at the waist and slits in the sides. Integral top with elastication at the top."
+    },
+    {
+        "article_id": "0220094015",
+        "Product_Name": "Dress",
+        "Colour": "Light Beige",
+        "Gender": "Ladieswear",
+        "Description": "Strapless maxi dress in jersey with an elasticated seam at the waist and slits in the sides. Integral top with elastication at the top."
+    },
+    {
+        "article_id": "0220094016",
+        "Product_Name": "Dress",
+        "Colour": "Off White",
+        "Gender": "Ladieswear",
+        "Description": "Strapless maxi dress in jersey with an elasticated seam at the waist and slits in the sides. Integral top with elastication at the top."
+    },
+    {
+        "article_id": "0203595034",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Purple",
+        "Gender": "Menswear",
+        "Description": "Shirt in checked flannel with a collar and chest pocket. Regular fit."
+    },
+    {
+        "article_id": "0203595036",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Yellow",
+        "Gender": "Menswear",
+        "Description": "Shirt in checked flannel with a collar and chest pocket. Regular fit."
+    },
+    {
+        "article_id": "0203595040",
+        "Product_Name": "Shirt",
+        "Colour": "Yellow",
+        "Gender": "Menswear",
+        "Description": "Shirt in checked flannel with a collar and chest pocket. Regular fit."
+    },
+    {
+        "article_id": "0203595048",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Green",
+        "Gender": "Menswear",
+        "Description": "Shirt in checked flannel with a collar and chest pocket. Regular fit."
+    },
+    {
+        "article_id": "0203595058",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Grey",
+        "Gender": "Menswear",
+        "Description": "Shirt in checked flannel with a collar and chest pocket. Regular fit."
+    },
+    {
+        "article_id": "0283236014",
+        "Product_Name": "Shirt",
+        "Colour": "Blue",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236018",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Green",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236020",
+        "Product_Name": "Shirt",
+        "Colour": "Purple",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236022",
+        "Product_Name": "Shirt",
+        "Colour": "Light Yellow",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236023",
+        "Product_Name": "Shirt",
+        "Colour": "Light Turquoise",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236026",
+        "Product_Name": "Shirt",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236027",
+        "Product_Name": "Shirt",
+        "Colour": "Greenish Khaki",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236028",
+        "Product_Name": "Shirt",
+        "Colour": "Light Pink",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236029",
+        "Product_Name": "Shirt",
+        "Colour": "Red",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0283236034",
+        "Product_Name": "Shirt",
+        "Colour": "Beige",
+        "Gender": "Menswear",
+        "Description": "Shirt in a cotton weave with a button-down collar, classic front and yoke at the back. Open chest pocket, short sleeves with sewn-in turn-ups, and a rounded hem. Regular Fit \u2013 a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette."
+    },
+    {
+        "article_id": "0392938001",
+        "Product_Name": "Shirt",
+        "Colour": "White",
+        "Gender": "Menswear",
+        "Description": "Shirt in a stretch premium cotton blend with a narrow turn-down collar, French front and long sleeves with adjustable buttoning at the cuffs. Shaping seams at the back and a rounded hem. Slim fit with narrow shoulders and a tapered waist to create a fitted silhouette."
+    },
+    {
+        "article_id": "0392938002",
+        "Product_Name": "Shirt",
+        "Colour": "Black",
+        "Gender": "Menswear",
+        "Description": "Shirt in a stretch premium cotton blend with a narrow turn-down collar, French front and long sleeves with adjustable buttoning at the cuffs. Shaping seams at the back and a rounded hem. Slim fit with narrow shoulders and a tapered waist to create a fitted silhouette."
+    },
+    {
+        "article_id": "0392938024",
+        "Product_Name": "Shirt",
+        "Colour": "Blue",
+        "Gender": "Menswear",
+        "Description": "Shirt in a stretch premium cotton blend with a narrow turn-down collar, French front and long sleeves with adjustable buttoning at the cuffs. Shaping seams at the back and a rounded hem. Slim fit with narrow shoulders and a tapered waist to create a fitted silhouette."
+    },
+    {
+        "article_id": "0392938029",
+        "Product_Name": "Shirt",
+        "Colour": "Light Blue",
+        "Gender": "Menswear",
+        "Description": "Shirt in a stretch premium cotton blend with a narrow turn-down collar, French front and long sleeves with adjustable buttoning at the cuffs. Shaping seams at the back and a rounded hem. Slim fit with narrow shoulders and a tapered waist to create a fitted silhouette."
+    },
+    {
+        "article_id": "0392938032",
+        "Product_Name": "Shirt",
+        "Colour": "Dark Red",
+        "Gender": "Menswear",
+        "Description": "Shirt in a stretch premium cotton blend with a narrow turn-down collar, French front and long sleeves with adjustable buttoning at the cuffs. Shaping seams at the back and a rounded hem. Slim fit with narrow shoulders and a tapered waist to create a fitted silhouette."
+    }
+]
